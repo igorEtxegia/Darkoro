@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4d9084271f927841aadec5b24fd161b, type: 3}
+  m_Name: Ingles
+  m_EditorClassIdentifier: 
+  idioma: 10
+  traducciones:
+  - clave: txt_btn_empezar
+    valor: Start
+  - clave: txt_btn_opciones
+    valor: Options
+  - clave: txt_btn_salir
+    valor: Exit
+  - clave: txt_menu_opciones
+    valor: Options
+  - clave: txt_btn_opcionesDeJuego
+    valor: Audio
+  - clave: txt_btn_controles
+    valor: Controls
+  - clave: txt_btn_idiomas
+    valor: Languages
+  - clave: txt_atras
+    valor: Back
+  - clave: txt_titulo_menu
+    valor: Menu
+  - clave: txt_nueva_partida
+    valor: New game
+  - clave: txt_seleccionar_mapa
+    valor: Select map
+  - clave: txt_menuOpcionesJuego
+    valor: Play
+  - clave: txt_musica
+    valor: Music
+  - clave: txt_sonidos
+    valor: Sounds
+  - clave: txt_controles
+    valor: Controls
+  - clave: txt_botones_a_utilizar
+    valor: 'D: Move right
+
+      A: Move left
+
+      W: climb
+
+      I: Interaction
+
+      Left
+      Click: hit
+
+      Esc: pause menu
+
+      Space: Jump'
+  - clave: txt_cargarMapa
+    valor: Load map
+  - clave: txt_mapa1
+    valor: Map 1
+  - clave: txt_mapa2
+    valor: Map 2
+  - clave: txt_mapa3
+    valor: Map 3
+  - clave: txt_puzzle
+    valor: Puzzle
+  - clave: txt_idioma
+    valor: Languages
+  - clave: txt_btn_idioma_castellano
+    valor: Spanish
+  - clave: txt_btn_idioma_euskera
+    valor: Basque
+  - clave: txt_btn_idioma_ingles
+    valor: English
+  - clave: txt_dialogo1
+    valor: I have to find a place to shelter.
+  - clave: txt_dialogo2
+    valor: Is that a cave? It serves as my shelter until this storm stops!
+  - clave: txt_dialogo3
+    valor: nooo! And now how do I get out of here? I'll have to find a way out.
+  - clave: txt_dialogo4
+    valor: Thanks for ending that enemy, what brings you here dear traveler?
+  - clave: txt_dialogo5
+    valor: What was that thing and where am I?
+  - clave: txt_dialogo6
+    valor: My name is Thiff and I am the one who watches over these ruins
+  - clave: txt_dialogo7
+    valor: Ruins? How do I get out of here?
+  - clave: txt_dialogo8
+    valor: I can help you get out but first you must help me kill the enemies that
+      have entered these ruins.?
+  - clave: txt_dialogo9
+    valor: mmm... okay (in a scary voice)?
+  - clave: txt_dialogo10
+    valor: Take this sword it will help you in your instance in the ruins.
+  - clave: txt_teclaAD
+    valor: Press A or D to move.
+  - clave: txt_teclaW
+    valor: Press W to go up.
+  - clave: txt_teclaE
+    valor: Press E to interact.
+  - clave: txt_teclaK
+    valor: Left click to attack.
+  - clave: txt_teclaEspacio
+    valor: Press SPACE to jump.
+  - clave: txt_cofreMapa1_1
+    valor: Here there is only dust.
+  - clave: txt_cofreMapa1_2
+    valor: A key? Maybe it will open the door that was before.
+  - clave: txt_cofreMapa3_1
+    valor: You find a note with the number 2 written on it.
+  - clave: txt_cofreMapa3_2
+    valor: The note is so old that it falls apart.
+  - clave: txt_cofreMapa3_3
+    valor: You find a note with the number 5 written on it.
+  - clave: txt_cofreMapa3_4
+    valor: You find a note with the number 8 written on it.
+  - clave: txt_instrucciones
+    valor: 'You must find the 3 secret numbers
+
+      by the map.
+
+      Each miss
+      subtracts 1 life.'
+  - clave: txt_cerrar
+    valor: Close
+  - clave: txt_dialogo11
+    valor: I have the best medicine for you, if you drink this juice, your energies
+      will recover
+  - clave: txt_dialogo12
+    valor: Really? Give me one.
+  - clave: txt_dialogo13
+    valor: Glup Glup Glup
+  - clave: txt_dialogo14
+    valor: Muajaja (evil laugh) does not know that it is actually bat urine with
+      a little rosemary.
+  - clave: txt_dialogo15
+    valor: You just said it out loud.
+  - clave: txt_dialogo16
+    valor: The store is closed
+  - clave: txt_cargaMapa1
+    valor: "Chapter 1 \nA dangerous storm"
+  - clave: txt_cargaMapa2
+    valor: "Chapter 2 \nTrapped in the cave"
+  - clave: txt_cargaMapa3
+    valor: "Chapter 3 \nA very hot place"
+  - clave: txt_cofreMapa2_1
+    valor: What is this? I think they're puzle pieces.
+  - clave: txt_puertaThiff
+    valor: I can't open the door and does not appear go open with key.
+  - clave: txt_mapa_actual1
+    valor: Map 1
+  - clave: txt_mapa_actual2
+    valor: Map 2
+  - clave: txt_mapa_actual3
+    valor: Map 3
+  - clave: txt_fin
+    valor: The end
+  - clave: txt_gracias
+    valor: Thanks for playing
+  - clave: txt_tituloPausa
+    valor: PAUSE MENU
+  - clave: txt_cofreMapa2_2
+    valor: Empty.
+  - clave: txt_dialogoM2_1
+    valor: Whe... where am I... I think I've fallen.
+  - clave: txt_dialogoM2_2
+    valor: I'll have to keep looking for a way out.

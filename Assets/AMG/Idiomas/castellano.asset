@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4d9084271f927841aadec5b24fd161b, type: 3}
+  m_Name: castellano
+  m_EditorClassIdentifier: 
+  idioma: 34
+  traducciones:
+  - clave: txt_btn_empezar
+    valor: Empezar
+  - clave: txt_btn_opciones
+    valor: Opciones
+  - clave: txt_btn_salir
+    valor: Salir
+  - clave: txt_menu_opciones
+    valor: Opciones
+  - clave: txt_btn_opcionesDeJuego
+    valor: Audio
+  - clave: txt_btn_controles
+    valor: Controles
+  - clave: txt_btn_idiomas
+    valor: Idiomas
+  - clave: txt_atras
+    valor: "Atr\xE1s"
+  - clave: txt_titulo_menu
+    valor: "Men\xFA"
+  - clave: txt_nueva_partida
+    valor: Nueva Partida
+  - clave: txt_seleccionar_mapa
+    valor: Seleccionar mapa
+  - clave: txt_menuOpcionesJuego
+    valor: Juego
+  - clave: txt_musica
+    valor: "M\xFAsica"
+  - clave: txt_sonidos
+    valor: Sonidos
+  - clave: txt_controles
+    valor: Controles
+  - clave: txt_botones_a_utilizar
+    valor: 'D: Moverse a la derecha
+
+      A: Moverse a la izquierda
+
+      W: Subir
+
+      E:
+      Interaccionar
+
+      Clic izq: Golpear
+
+      Esc: Menu pausa
+
+      Space:
+      Saltar'
+  - clave: txt_cargarMapa
+    valor: Cargar mapa
+  - clave: txt_mapa1
+    valor: Mapa 1
+  - clave: txt_mapa2
+    valor: Mapa 2
+  - clave: txt_mapa3
+    valor: Mapa 3
+  - clave: txt_puzzle
+    valor: Puzle
+  - clave: txt_idioma
+    valor: Idiomas
+  - clave: txt_btn_idioma_castellano
+    valor: Castellano
+  - clave: txt_btn_idioma_euskera
+    valor: Euskera
+  - clave: txt_btn_idioma_ingles
+    valor: Ingles
+  - clave: txt_dialogo1
+    valor: Tengo que encontrar un sitio donde refugiarme.
+  - clave: txt_dialogo2
+    valor: "\xBFEso es una cueva? \xA1Me sirve como refugio hasta que pare esta tormenta!\r"
+  - clave: txt_dialogo3
+    valor: "\xA1Nooo! \xBFY ahora c\xF3mo salgo de aqu\xED? tendr\xE9 que buscar
+      una salida."
+  - clave: txt_dialogo4
+    valor: "Gracias por acabar con esos enemigos, \xBFQue te trae por aqu\xED querido
+      viajero?"
+  - clave: txt_dialogo5
+    valor: "\xBFQu\xE9 eran esas cosas y donde estoy?\r"
+  - clave: txt_dialogo6
+    valor: Me llamo Thiff y soy el que vigila estas ruinas
+  - clave: txt_dialogo7
+    valor: "\xBFRuinas? \xBFC\xF3mo salgo de aqu\xED?"
+  - clave: txt_dialogo8
+    valor: "Yo puedo ayudarte a salir pero antes deber\xE1s ayudarme a acabar con
+      los enemigos que han entrado en estas ruinas.?"
+  - clave: txt_dialogo9
+    valor: mmm... vale (con voz de miedo)?
+  - clave: txt_dialogo10
+    valor: "Toma esta espada  te ayudar\xE1 en tu instancia en las ruinas."
+  - clave: txt_teclaAD
+    valor: Pulsa A y D para moverte.
+  - clave: txt_teclaW
+    valor: Pulsa W para subir.
+  - clave: txt_teclaE
+    valor: Pulsa E para interactuar.
+  - clave: txt_teclaK
+    valor: Pulsa el clic izquierdo para golpear.
+  - clave: txt_teclaEspacio
+    valor: Pulsa ESPACIO para saltar.
+  - clave: txt_cofreMapa1_1
+    valor: "Aqu\xED solo hay polvo."
+  - clave: txt_cofreMapa1_2
+    valor: "\xBFUna llave? Quiz\xE1 abra la puerta que hab\xEDa antes."
+  - clave: txt_cofreMapa3_1
+    valor: "Encuentras una nota con el n\xFAmero 2 escrito.\r"
+  - clave: txt_cofreMapa3_2
+    valor: La nota es tan vieja que se deshace.
+  - clave: txt_cofreMapa3_3
+    valor: "Encuentras una nota con el n\xFAmero 5 escrito."
+  - clave: txt_cofreMapa3_4
+    valor: "Encuentras una nota con el n\xFAmero 8 escrito."
+  - clave: txt_instrucciones
+    valor: 'Debes encontrar los 3 numeros secretos
+
+      por el mapa.
+
+      Cada
+      fallo resta 1 vida.'
+  - clave: txt_cerrar
+    valor: Cerrar
+  - clave: txt_dialogo11
+    valor: "Tengo la mejor medicina para ti, si te tomas este jugo, tus energ\xEDas
+      se recuperar\xE1n."
+  - clave: txt_dialogo12
+    valor: "\xBFDe verdad? Dame una."
+  - clave: txt_dialogo13
+    valor: Glup Glup Glup
+  - clave: txt_dialogo14
+    valor: "Muajaja(risa mal\xE9fica) no sabe que en realidad es orina de murci\xE9lago
+      con un poco de Romero."
+  - clave: txt_dialogo15
+    valor: Lo acabas de decir en voz alta.
+  - clave: txt_dialogo16
+    valor: "La tienda est\xE1 cerrada."
+  - clave: txt_cargaMapa1
+    valor: "Capitulo 1 \nUna tormenta peligrosa"
+  - clave: txt_cargaMapa2
+    valor: "Capitulo 2 \nAtrapado en la cueva"
+  - clave: txt_cargaMapa3
+    valor: "Capitulo 3 \nUn lugar muy caluroso"
+  - clave: txt_cofreMapa2_1
+    valor: "\xBFQue es esto? Parecen piezas de un puzle."
+  - clave: txt_puertaThiff
+    valor: No puedo abrir la puerta y no parece que se vaya a abrir con una llave.
+  - clave: txt_mapa_actual1
+    valor: Mapa 1
+  - clave: txt_mapa_actual2
+    valor: Mapa 2
+  - clave: txt_mapa_actual3
+    valor: Mapa 3
+  - clave: txt_fin
+    valor: Fin
+  - clave: txt_gracias
+    valor: Gracias por jugar
+  - clave: txt_tituloPausa
+    valor: MENU PAUSA
+  - clave: txt_cofreMapa2_2
+    valor: "Vac\xEDo."
+  - clave: txt_dialogoM2_1
+    valor: "Don\u2026 donde estoy... Creo que me he ca\xEDdo."
+  - clave: txt_dialogoM2_2
+    valor: "Tendr\xE9 que seguir buscando una salida."

@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4d9084271f927841aadec5b24fd161b, type: 3}
+  m_Name: euskera
+  m_EditorClassIdentifier: 
+  idioma: 2
+  traducciones:
+  - clave: txt_btn_empezar
+    valor: Hasi
+  - clave: txt_btn_opciones
+    valor: Aukerak
+  - clave: txt_btn_salir
+    valor: Irten
+  - clave: txt_menu_opciones
+    valor: Joko Aukerak
+  - clave: txt_btn_opcionesDeJuego
+    valor: Audioa
+  - clave: txt_btn_controles
+    valor: Kontrolak
+  - clave: txt_btn_idiomas
+    valor: Hizkuntzak
+  - clave: txt_atras
+    valor: Atzera
+  - clave: txt_titulo_menu
+    valor: Menua
+  - clave: txt_nueva_partida
+    valor: Partida Berria
+  - clave: txt_seleccionar_mapa
+    valor: Mapa Autatu
+  - clave: txt_menuOpcionesJuego
+    valor: Jokua
+  - clave: txt_musica
+    valor: Musika
+  - clave: txt_sonidos
+    valor: Soinuak
+  - clave: txt_controles
+    valor: Joko Kontrolak
+  - clave: txt_botones_a_utilizar
+    valor: 'D: Eskubiruntz abiatu.
+
+      A: Ezkerreruntz abiatu.
+
+      W: Igotzeko.
+
+      E:
+      Interakzioa.
+
+      Klik Ezk: Jo
+
+      Esc: Etenaldiko menua.
+
+      Space:
+      Salto'
+  - clave: txt_cargarMapa
+    valor: Mapa kargatu
+  - clave: txt_mapa1
+    valor: 1.Mapa
+  - clave: txt_mapa2
+    valor: 2.Mapa
+  - clave: txt_mapa3
+    valor: 3.Mapa
+  - clave: txt_puzzle
+    valor: Puzlea
+  - clave: txt_idioma
+    valor: Hizkuntzak
+  - clave: txt_btn_idioma_castellano
+    valor: Gaztelania
+  - clave: txt_btn_idioma_euskera
+    valor: Euskera
+  - clave: txt_btn_idioma_ingles
+    valor: Ingelesa
+  - clave: txt_dialogo1
+    valor: Lekurenbat aurkitu behar dut estalita mantentzeko.
+  - clave: txt_dialogo2
+    valor: Horko hori kobazulo bat ahal da?, Balioko dit estalita egoteko ekaitza
+      pasatu harte!
+  - clave: txt_dialogo3
+    valor: Ezzz! Ta orain nola irtentzen naiz hemendikan? Irteeraren bat bilatu beharko
+      dut.
+  - clave: txt_dialogo4
+    valor: Mila esker etsai hori akatzeagatik, Nolatan zuk hemen lagun bidaiari maitea.
+  - clave: txt_dialogo5
+    valor: Zer zen gauza hori ta non nago?
+  - clave: txt_dialogo6
+    valor: Nik Thiff dut izena eta ni naiz hondakin hauen zaintzailea.
+  - clave: txt_dialogo7
+    valor: Hondakinak? Nola irtentzen naiz hemendikan?
+  - clave: txt_dialogo8
+    valor: Ni lagundu dezakezut hemendikan irtetzen baino lehenik eta behin sartu
+      diren arerio guzti horiek akatzen lagundu behar didazu, ados?
+  - clave: txt_dialogo9
+    valor: mmm... ondo (beldur ahotsakin)?
+  - clave: txt_dialogo10
+    valor: Hartu zak nik egindako ezpata hau, lagunduko dizu hemendikan ibiltzen
+      zaren harte.
+  - clave: txt_teclaAD
+    valor: A eta D zapaldu mugitzeko
+  - clave: txt_teclaW
+    valor: W zapaldu igotzeko
+  - clave: txt_teclaE
+    valor: E zapaldu interakzioa izateko
+  - clave: txt_teclaK
+    valor: Ezkerreko Klik zapaldu jotzeko
+  - clave: txt_teclaEspacio
+    valor: Espazioa zapaldu pertsonaia saltatzeko.
+  - clave: txt_cofreMapa1_1
+    valor: Hautsa, besterikan ez.
+  - clave: txt_cofreMapa1_2
+    valor: Giltz bat? Agian lehen ikusitako atzeko ate hori ireki dezaket.
+  - clave: txt_cofreMapa3_1
+    valor: Nota bat aurkitzen dezu, 2 zenbakia dago idatzita.
+  - clave: txt_cofreMapa3_2
+    valor: Nota ahain zarra da, desegin egiten dela.
+  - clave: txt_cofreMapa3_3
+    valor: Nota bat aurkitzen dezu, 5 zenbakia dago idatzita.
+  - clave: txt_cofreMapa3_4
+    valor: Nota bat aurkitzen dezu, 8 zenbakia dago idatzita.
+  - clave: txt_instrucciones
+    valor: 3 zenbaki ezkutuak aurkitu behar dituzu. Akats bakoitza bizitza 1 kenduko
+      dizu.
+  - clave: txt_cerrar
+    valor: Itxi
+  - clave: txt_dialogo11
+    valor: Medikuntza hoberena dakat zuretzat, zuku hau hartzen badezu, energia osoa
+      berreskuratuko duzu.
+  - clave: txt_dialogo12
+    valor: Benetan? Emaidazu bat.
+  - clave: txt_dialogo13
+    valor: Glup Glup Glup
+  - clave: txt_dialogo14
+    valor: Muajaja(Maltzur farra) ez daki errealitatean saguzarraren pixa dela.
+  - clave: txt_dialogo15
+    valor: Entzun dizut.
+  - clave: txt_dialogo16
+    valor: Denda itxita dago.
+  - clave: txt_cargaMapa1
+    valor: "1. Kapituloa \nEkaitz arriskutsua"
+  - clave: txt_cargaMapa2
+    valor: "2. Kapituloa \nKobazuloan harrapatuta"
+  - clave: txt_cargaMapa3
+    valor: '3. Kapituloa
+
+      Leku oso beroa'
+  - clave: txt_cofreMapa2_1
+    valor: Zer da hau? Badirudi puzleko piezak direla.
+  - clave: txt_puertaThiff
+    valor: Ezin dut atea ireki eta ez dirudi giltzakin irekiko denik.
+  - clave: txt_mapa_actual1
+    valor: 1. Mapa
+  - clave: txt_mapa_actual2
+    valor: 2. Mapa
+  - clave: txt_mapa_actual3
+    valor: 3. Mapa
+  - clave: txt_fin
+    valor: Amaiera
+  - clave: txt_gracias
+    valor: Eskerrik asko jolasteagatik
+  - clave: txt_tituloPausa
+    valor: ETENALDIA
+  - clave: txt_cofreMapa2_2
+    valor: Hutsik.
+  - clave: txt_dialogoM2_1
+    valor: Non... non nago... erori naizela uste dut.
+  - clave: txt_dialogoM2_2
+    valor: Irteera baten bila jarraitu beharko dut.

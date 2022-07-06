@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlataformaMovible
+  - Pinchos
+  - Ladder
+  - Vida
+  - Agua
+  - PinchosRio
+  - PrimerSalto
+  - PinchoGiratorio
+  - PlataformaSB
+  - Puerta
+  - key
+  - Placa
+  - Weapon
+  - Enemigo
+  - RuedaCortante
+  - RotaHachas
+  - Ascensor
+  - PuertaPanel
+  - Lava
+  - PinchosCuevaZona1
+  - LavaZona2
+  - Muerte zona 3
+  - Puzle
+  - PuertaPuzle
+  - GameManager
+  - NumeroEscena
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Ground
+  - Jugador
+  - Ladder
+  - ParedInvisibleMob
+  - GameManager
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
